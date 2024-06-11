@@ -1,0 +1,6 @@
+@Jenkinser_HostAddress = http://localhost:5254
+
+GET {{Jenkinser_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
